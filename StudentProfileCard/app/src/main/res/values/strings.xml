@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentProfileCard</string>
+    <string name="student_id_class">MSSV: %1$s Lớp: %2$s</string>
+    <string name="student_gpa_badge">%1$s GPA (%2$s)</string>
+</resources>
